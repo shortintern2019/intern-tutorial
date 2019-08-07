@@ -1,6 +1,6 @@
 ## Overview
 This tutorial will walk you through most of technology stacks that is required for the summer internship.
-followings are list material that will be cover in this tutorial. 
+followings are list material that will be coverd in this tutorial. 
 1. Basic Git operation
 2. Fundamental of Spring Framework
 3. Jquery to represent data
