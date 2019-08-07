@@ -34,13 +34,11 @@ Maven is a software project manegement and comprehension tool.
 You can use a lot of third party Java library from a maven repository.
 Please download (https://maven.apache.org/download.cgi) and install (https://maven.apache.org/install.html) latest version.
 
-
-## Hands on Tutorial
-
 ### Editor
 If you don’t use any editor for developer, we strongly recommend to install the editor.
 For example Atom (https://atom.io/) is an editor by GitHub.
 
+## Hands on Tutorial
 
 ## 1. Git
 Git is the de-facto standard of version control system for web application development. You can skip this tutorial if you are already familiar with Git.
