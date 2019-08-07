@@ -1,5 +1,4 @@
 ## Overview
----
 This tutorial will walk you through most of technology stacks that is required for the summer internship.
 followings are list material that will be cover in this tutorial. 
 1. Basic Git operation
@@ -11,7 +10,6 @@ Once you complete each tutorial, mark your completion on this spreadsheet https:
  Assignments that are X.1 is optional, but we highly recommend you complete all of the tutorial.
  
 ## Environment
----
 before starting this tutorial, follow the instruction below to set up your environment.
 Environment
 
@@ -38,7 +36,6 @@ Please download (https://maven.apache.org/download.cgi) and install (https://mav
 
 
 ## Hands on Tutorial
----
 
 ### Editor
 If you don’t use any editor for developer, we strongly recommend to install the editor.
