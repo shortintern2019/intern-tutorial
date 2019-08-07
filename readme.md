@@ -82,10 +82,10 @@ Change the Json response as follow, without changing field name in Greeting.java
 ```
 **HINT**: @JsonProperty
 
-## 4. Consuming a RESTful Web Service with jQuery
+### 4. Consuming a RESTful Web Service with jQuery
 This tutorial is aiming to understand how to create a simple jQuery client with Spring Boot. If you can get the knowledge about jQuery, you become able to create an UI page, which is dynamically changed.
 
-### Minimum requirement task
+#### Minimum requirement task
 https://spring.io/guides/gs/consuming-rest-jquery/
 
 ### 4.1 Call Rakuten API with jQuery
@@ -95,7 +95,7 @@ You try below two task.
 2. Show the information which is aquired via the Rakuten API by using jQuery.
 
 
-# References
+#### References
 [jQuery 楽天 API を必要最低限で動かす](https://qiita.com/mi-miya/items/91490004f1376c790d80)
 
 ### 5. Serving Web Content with Spring MVC
@@ -221,13 +221,13 @@ Run the application with Maven (in command line)
 Test the app (input your endpoint(URL) )
 <img width="353" alt="Screen Shot 2019-08-07 at 12 47 05" src="https://user-images.githubusercontent.com/7812034/62604998-2a434380-b934-11e9-9fb6-c94567705e3d.png">
 
-## 6. Consuming a RESTful Web Service with RestTemplate
+### 6. Consuming a RESTful Web Service with RestTemplate
 This tutorial is aiming to understand how to use RESTful API with Spring Boot. On Spring Boot, you can easily use RESTful API by using "RestTemplate". If you become able to use "RestTemplate" perfectly, you can realize various idea that you think.
 
-### Minimum requirement task
+#### Minimum requirement task
 https://spring.io/guides/gs/consuming-rest/
 
-## 6.1 Call Rakuten API with RestTemplate
+### 6.1 Call Rakuten API with RestTemplate
 You try to use the Rakuten API which you want to use and check the response.
 https://webservice.rakuten.co.jp/api/simplehotelsearch/
 
