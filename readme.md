@@ -3,15 +3,14 @@ This tutorial will walk you through most of technology stacks that is required f
 followings are list material that will be coverd in this tutorial. 
 1. Basic Git operation
 2. Fundamental of Spring Framework
-3. Jquery to represent data
+3. jQuery to represent data
 
 Once you complete each tutorial, mark your completion on this spreadsheet https://docs.google.com/spreadsheets/d/1Yxhw_C2Daihqf6XwTr_8ViK-NVN-VuDziBeMku9DyDo/edit?usp=sharing
 
- Assignments that are X.1 is optional, but we highly recommend you complete all of the tutorial.
+Assignments that are X.1 is optional, but we highly recommend you to complete all of the tutorial.
  
 ## Environment
 before starting this tutorial, follow the instruction below to set up your environment.
-Environment
 
 ## Download & Install tools
 
@@ -41,15 +40,16 @@ For example Atom (https://atom.io/) is an editor by GitHub.
 ## Hands on Tutorial
 
 ## 1. Git
-Git is the de-facto standard of version control system for web application development. You can skip this tutorial if you are already familiar with Git.
-you can learn basics from [here](https://learngitbranching.js.org/).
+You can learn basics from [here](https://learngitbranching.js.org/).
+You can skip this if you are already familiar with Git.
+
 
 ## Spring Framework Tutorial
-For Spring Frame Tutorial, create a new branch from the master branch. Branch name should be in format of "feature/FIRSTNAME_LASTNAME". Once you complete the tutorial push your work to the GitHub repository.
+For Spring Framework Tutorial, create a new branch from the master branch. Branch name should be in format of "feature/FIRSTNAME_LASTNAME". Once you complete the tutorial push your work to the GitHub repository.
 
 
 ### 2. Accessing Data using Spring data
-Spring Data JPA is used to access data from a database. Benefit of using Spring Data JPA is that you don't have to write sql to access the data. Complete the following tutorial to learn the fundamental of Spring Data.
+Spring Data JPA is used to access data stored in a database. Benefit of using JPA is that you don't have to write SQL to access the data. Complete the following tutorial to learn the fundamental of Spring Data.
 
 https://spring.io/guides/gs/accessing-data-jpa/
 
@@ -89,7 +89,7 @@ This tutorial is aiming to understand how to create a simple jQuery client with 
 https://spring.io/guides/gs/consuming-rest-jquery/
 
 ### 4.1 Call Rakuten API with jQuery
-You try below two task.
+You try below two tasks.
 
 1. Get the information via the Rakuten API
 2. Show the information which is aquired via the Rakuten API by using jQuery.
