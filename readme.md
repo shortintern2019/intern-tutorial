@@ -103,9 +103,12 @@ You try below two task.
 #### purpose
 
 To be able to get your HTML file from an endpoint. ("endpoint" means URL like 'http://localhost:8080/greeting?name=User' here)
-Let's try this tutorial (https://spring.io/guides/gs/serving-web-content/) !!
 
 #### to do
+Let's try this tutorial (https://spring.io/guides/gs/serving-web-content/) !!
+
+
+For your reference, the following explanation is the overview of the tutorial. 
 
 Create a pom file (for Maven)
 e.g. pom.xml
