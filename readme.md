@@ -25,7 +25,7 @@ please download JDK from https://www.oracle.com/technetwork/java/javase/download
 
 IDE(Integrated Development Environment) supports your development.
 Generally, almost all of coder are using IDE for Java development.
-If you have never been to use any IDE, we recommend to use IntelliJ (https://www.jetbrains.com/idea/download/).
+If you have never used any IDE, we recommend to use IntelliJ (https://www.jetbrains.com/idea/download/).
 If you have already used any IDE for your development(Eclipse,IntelliJ,NetBeans, and so on), please use your favorite one :).
 
 ### Git
@@ -121,9 +121,7 @@ https://spring.io/guides/gs/serving-web-content/
 
 For your reference, the following explanation is the overview of the tutorial.
 
-Create a pom file (for Maven)
-e.g. pom.xml
-
+Create the pom file (for Maven)
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 
@@ -250,3 +248,10 @@ Try to use any Rakuten API which you want to use and check the response.
 https://webservice.rakuten.co.jp/api/simplehotelsearch/
 
 Note: If you try to use the Rakuten API for the firts time, you need to register
+
+---
+If you want to learn about Spring Framework more in depth, I recommend these two books(Japanese)
+- [Spring徹底入門](https://www.amazon.co.jp/Spring%E5%BE%B9%E5%BA%95%E5%85%A5%E9%96%80-Spring-Framework%E3%81%AB%E3%82%88%E3%82%8BJava%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BENTT%E3%83%87%E3%83%BC%E3%82%BF/dp/4798142476/ref=sr_1_1?adgrpid=52706263349&gclid=EAIaIQobChMI6oH9paLA4gIVh3ZgCh2hAgbCEAAYASAAEgKFqvD_BwE&hvadid=338539117378&hvdev=c&hvlocphy=1009307&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=10884978008691358881&hvtargid=kwd-332386918940&hydadcr=27263_11561108&jp-ad-ap=0&keywords=spring%E5%BE%B9%E5%BA%95%E5%85%A5%E9%96%80&qid=1559116737&s=gateway&sr=8-1)
+- [はじめてのSpring Boot](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AESpring-Boot%E2%80%95%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A7%E7%B0%A1%E5%8D%98Java%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA-I%E3%83%BB-BOOKS-%E4%BF%8A%E6%98%8E/dp/4777519694/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=spring+boot&qid=1565243460&s=gateway&sr=8-5)
+
+If you have any question, feel free to contact us via Zoho
