@@ -1,7 +1,7 @@
 ## Overview
 
 This tutorial will walk you through most of technology stacks that is required for the summer internship.
-followings are list materials that will be covered in this tutorial.
+followings are list of materials that will be covered in this tutorial.
 
 1. Basic Git operation
 2. Fundamental of Spring Framework
@@ -94,7 +94,7 @@ Change the JSON response as follow, without changing field name in Greeting.java
 
 ### 4. Consuming a RESTful Web Service with jQuery
 
-Goal of this tutorial is to understand how to create a simple jQuery client with Spring Boot. If you can get the knowledge about jQuery, you will be able to create an UI page, which is dynamically changed.
+Goal of this tutorial is to understand how to create a simple jQuery client with Spring Boot. If you can get the knowledge about jQuery, you will be able to create an UI page, which is dynamically changes.
 
 #### Minimum requirement task
 
